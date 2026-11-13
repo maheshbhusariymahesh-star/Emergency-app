@@ -1,0 +1,8 @@
+{
+  "name": "Emergency app",
+  "description": "Access essential emergency numbers instantly, presented on a peaceful background of Lord Vishnu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

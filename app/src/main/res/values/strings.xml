@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Vishnu Raksha</string>
+    <string name="app_title_hindi">विष्णु रक्षा</string>
+    <string name="app_subtitle">Emergency Helplines &amp; Vishnu Darshan</string>
+
+    <string name="nav_emergency">Emergency</string>
+    <string name="nav_darshan">Darshan</string>
+    <string name="nav_safety">Safety Guide</string>
+
+    <string name="cd_lord_vishnu_photo">Sacred portrait of Lord Vishnu seated on a lotus</string>
+    <string name="cd_app_emblem">Vishnu Raksha protective emblem</string>
+    <string name="cd_call_number">Call %1$s</string>
+    <string name="cd_copy_number">Copy number %1$s</string>
+    <string name="cd_share_number">Share helpline %1$s</string>
+    <string name="cd_pin_number">Pin or unpin %1$s</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_back">Go back</string>
+
+    <string name="sos_banner_title">National Emergency SOS</string>
+    <string name="sos_banner_subtitle">Police • Fire • Ambulance (24x7 Free)</string>
+    <string name="sos_call_112">CALL 112</string>
+
+    <string name="search_placeholder">Search number or service (e.g. 108, Police, साइबर)…</string>
+    <string name="empty_search_title">No matching helpline found</string>
+    <string name="empty_search_subtitle">Try searching a number like 112, 108, 1930 or switch to All categories.</string>
+    <string name="reset_filters">Show All Numbers</string>
+
+    <string name="pinned_section_title">Pinned Quick Contacts</string>
+    <string name="all_numbers_section_title">All Emergency Numbers</string>
+    <string name="view_full_darshan">Full Darshan</string>
+
+    <string name="copied_snackbar">Copied %1$s (%2$s) to clipboard</string>
+    <string name="dialer_unavailable_snackbar">Dialer unavailable. Copied %1$s to clipboard.</string>
+    <string name="share_chooser_title">Share Emergency Number</string>
+    <string name="call_label">Call</string>
+</resources>
